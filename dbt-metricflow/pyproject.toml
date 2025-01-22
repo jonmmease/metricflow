@@ -34,7 +34,6 @@ allow-direct-references = true
 [tool.hatch.metadata.hooks.requirements_txt]
 files = [
   "extra-hatch-configuration/requirements-cli.txt",
-  "extra-hatch-configuration/requirements-metricflow.txt",
 ]
 
 [project.urls]
